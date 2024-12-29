@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+go.work.sum
+.env
+.idea
+bin
+web/tailwind/node_modules
+orbital/web/*
+storage/
+!web/wasm/storage
+certs/
